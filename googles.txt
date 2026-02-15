@@ -64,18 +64,12 @@ $boost=3,site=springer.com
 $boost=3,site=plato.stanford.edu
 $boost=3,site=wolfram.com
 $boost=3,site=mathworld.wolfram.com
-$boost=3,site=cryptohack.org
-$boost=3,site=owasp.org
-$boost=3,site=exploit-db.com
 $boost=3,site=security.stackexchange.com
 $boost=3,site=reverseengineering.stackexchange.com
-$boost=3,site=ctftime.org
-$boost=3,site=hashcat.net
 $boost=3,site=wireshark.org
 $boost=3,site=nmap.org
 $boost=3,site=ifixit.com
 $boost=3,site=hackaday.com
-$boost=3,site=electronics-tutorials.ws
 $boost=3,site=allaboutcircuits.com
 $boost=3,site=digitalocean.com
 $boost=3,site=linode.com
@@ -92,7 +86,6 @@ $boost=3,site=mozilla.org
 $boost=3,site=tldr.sh
 $boost=3,site=pythontutor.com
 $boost=3,site=overleaf.com
-$boost=3,site=latex-project.org
 $boost=3,site=martinfowler.com
 $boost=3,site=joelonsoftware.com
 $boost=3,site=refactoring.guru
