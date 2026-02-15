@@ -4,7 +4,6 @@
 ! author: skc
 
 $discard
-
 $boost=3,site=docs.fedoraproject.org
 $boost=3,site=wiki.archlinux.org
 $boost=3,site=man7.org
@@ -78,9 +77,8 @@ $boost=3,site=ifixit.com
 $boost=3,site=hackaday.com
 $boost=3,site=electronics-tutorials.ws
 $boost=3,site=allaboutcircuits.com
-$boost=3,site=digitalocean.com/community
-$boost=3,site=linode.com/docs
-$boost=3,site=tutorialspoint.com
+$boost=3,site=digitalocean.com
+$boost=3,site=linode.com
 $boost=3,site=w3schools.com
 $boost=3,site=caniuse.com
 $boost=3,site=developer.apple.com
@@ -92,10 +90,6 @@ $boost=3,site=gnu.org
 $boost=3,site=apache.org
 $boost=3,site=mozilla.org
 $boost=3,site=tldr.sh
-$boost=3,site=https://www.google.com/search?q=explainshell.com
-$boost=3,site=crontab.guru
-$boost=3,site=regex101.com
-$boost=3,site=jsonlint.com
 $boost=3,site=pythontutor.com
 $boost=3,site=overleaf.com
 $boost=3,site=latex-project.org
