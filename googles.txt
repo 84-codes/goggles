@@ -1,8 +1,10 @@
 ! name: Tech, academic, and news and spam free
-! description:
+! description: boosts tech, and academic stuff, removes useless stuff
 ! public: true
 ! author: skc
 ! avatar: #9244e0
+
+
 
 $discard
 
